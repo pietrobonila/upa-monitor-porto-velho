@@ -1,3 +1,5 @@
+# Alunos: Ryan Torres dos Santos, Pietro Campos Gonzaga, Wendel Oliveira Ramalho Filho
+
 # UPA Monitor de Porto Velho — Modelagem de Dados e Business Intelligence
 
 Repositório acadêmico/técnico contendo a modelagem de dados relacional e as consultas estatísticas (Stored Procedures) desenvolvidas para o sistema de monitoramento das Unidades de Pronto Atendimento (UPAs) de Porto Velho - RO.
@@ -64,3 +66,4 @@ erDiagram
     SETOR ||--o{ MEDICAO : "possui_metrica"
     CLASSIFICACAO_RISCO ||--o{ ATENDIMENTO : "classifica"
     PACIENTE ||--o{ ATENDIMENTO : "possui_historico"
+
