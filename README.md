@@ -1,4 +1,4 @@
-# Alunos: Ryan Torres dos Santos, Pietro Campos Gonzaga, Wendel Oliveira Ramalho Filho
+# Alunos: Ryan Torres dos Santos, Pietro Campos Gonzaga, Wendel Oliveira Ramalho Filho, Gerson Adriano Oliveira de Almeida e  Nicolas Braga Silve Ribeiro
 
 # UPA Monitor de Porto Velho — Modelagem de Dados e Business Intelligence
 
